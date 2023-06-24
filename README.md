@@ -1,3 +1,3 @@
 # bonus-assignment
 bonus questions in cs1 class
-Let me know if you need anything else
+There is 2 files in this repository. both with different way to do the recursive permutations.
